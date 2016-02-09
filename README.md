@@ -1,6 +1,8 @@
 corona-sdk-snippets
 ===================
 
+[![Join the chat at https://gitter.im/khaerul10056/corona-sdk-snippets](https://badges.gitter.im/khaerul10056/corona-sdk-snippets.svg)](https://gitter.im/khaerul10056/corona-sdk-snippets?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Various bits and pieces, written either as components of a game or out of mere curiosity.
 
 After the intro, select a sample from the listbox in the upper left corner and hit "Launch".
